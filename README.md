@@ -12,7 +12,7 @@ I started my career focused on front-end work for e-commerce and web application
 
 ### Where you can find me
 
-<p align="left"> <a href="https://www.github.com/cosimocollini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[[https://www.linkedin.com/in/guido-penta/](https://www.linkedin.com/in/cosimo-collini/)](https://www.linkedin.com/in/cosimo-collini/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/cosimocollini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cosimo-collini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <!--
